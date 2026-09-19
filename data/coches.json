@@ -1,0 +1,90 @@
+[
+  {
+    "cocheID": 1,
+    "denominacion": "Aster GT · Edición circuito",
+    "fabricante": "Aster Slot",
+    "codFabricante": "DEMO-C001",
+    "descDeco": "Azul y blanco · dorsal 21",
+    "categoria": "GT",
+    "anio": 2024,
+    "observaciones": "Registro ficticio para probar el catálogo.",
+    "notas": "Medidas de demostración, sin correspondencia con un modelo real.",
+    "dimensiones": {
+      "largoTotal": 141,
+      "anchoTotal": 62,
+      "altoTotal": 35,
+      "entreEjes": 82,
+      "batalla": 82
+    },
+    "imagenes": {
+      "slot": "images/demo-coche-1-slot.jpg",
+      "real": "images/demo-coche-1-real.jpg"
+    }
+  },
+  {
+    "cocheID": 2,
+    "denominacion": "Vértice R2 · Monte Norte",
+    "fabricante": "Vértice Racing",
+    "codFabricante": "DEMO-C002",
+    "descDeco": "Rojo y negro · dorsal 7",
+    "categoria": "Rally",
+    "anio": 2023,
+    "observaciones": "Registro ficticio para probar el catálogo.",
+    "notas": "Medidas de demostración, sin correspondencia con un modelo real.",
+    "dimensiones": {
+      "largoTotal": 142,
+      "anchoTotal": 62,
+      "altoTotal": 35,
+      "entreEjes": 82,
+      "batalla": 82
+    },
+    "imagenes": {
+      "slot": "images/demo-coche-2-slot.jpg",
+      "real": "images/demo-coche-2-real.jpg"
+    }
+  },
+  {
+    "cocheID": 3,
+    "denominacion": "Aster P1 · Resistencia",
+    "fabricante": "Aster Slot",
+    "codFabricante": "DEMO-C003",
+    "descDeco": "Verde y grafito · dorsal 12",
+    "categoria": "Prototipos",
+    "anio": 2025,
+    "observaciones": "Registro ficticio para probar el catálogo.",
+    "notas": "Medidas de demostración, sin correspondencia con un modelo real.",
+    "dimensiones": {
+      "largoTotal": 143,
+      "anchoTotal": 62,
+      "altoTotal": 35,
+      "entreEjes": 82,
+      "batalla": 82
+    },
+    "imagenes": {
+      "slot": "images/demo-coche-3-slot.jpg",
+      "real": "images/demo-coche-3-real.jpg"
+    }
+  },
+  {
+    "cocheID": 4,
+    "denominacion": "Meridian Classic · Serie 70",
+    "fabricante": "Meridian Models",
+    "codFabricante": "DEMO-C004",
+    "descDeco": "Naranja · dorsal 44",
+    "categoria": "Clásicos",
+    "anio": 1972,
+    "observaciones": "Registro ficticio para probar el catálogo.",
+    "notas": "Medidas de demostración, sin correspondencia con un modelo real.",
+    "dimensiones": {
+      "largoTotal": 144,
+      "anchoTotal": 62,
+      "altoTotal": 35,
+      "entreEjes": 82,
+      "batalla": 82
+    },
+    "imagenes": {
+      "slot": "images/demo-coche-4-slot.jpg",
+      "real": "images/demo-coche-4-real.jpg"
+    }
+  }
+]

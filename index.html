@@ -1,57 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="PEMCIB SLOT: catálogo de coches y materiales en construcción.">
-    <title>PEMCIB SLOT</title>
-    <style>
-      * {
-        box-sizing: border-box;
-      }
-
-      body {
-        margin: 0;
-        min-height: 100vh;
-        min-height: 100svh;
-        display: grid;
-        place-items: center;
-        padding: 24px;
-        background: #101318;
-        color: #f4f6f8;
-        font-family: system-ui, sans-serif;
-        text-align: center;
-      }
-
-      main {
-        width: 100%;
-        max-width: 640px;
-        padding: clamp(24px, 6vw, 56px);
-        border: 1px solid #303843;
-        border-top: 3px solid #70d4b1;
-        border-radius: 12px;
-        background: #191e26;
-      }
-
-      h1 {
-        margin: 0 0 20px;
-        font-size: clamp(2rem, 7vw, 3.5rem);
-        line-height: 1.15;
-        letter-spacing: 0.04em;
-      }
-
-      p {
-        margin: 0;
-        color: #bfc8d3;
-        font-size: clamp(1rem, 3vw, 1.2rem);
-        line-height: 1.6;
-      }
-    </style>
-  </head>
-  <body>
-    <main>
-      <h1>PEMCIB SLOT</h1>
-      <p>Catálogo de coches y materiales en construcción.</p>
-    </main>
-  </body>
-</html>
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#101318"><title>PEMCIB SLOT · Catálogo</title><link rel="stylesheet" href="css/styles.css"><script src="js/app.js" defer></script></head>
+<body>
+<header><a href="./" class="brand">PEMCIB <span>SLOT</span></a><span class="demo">Maqueta · Datos ficticios</span></header>
+<main><div class="intro"><p class="eyebrow">LA COLECCIÓN, AL DETALLE</p><h1>PEMCIB SLOT</h1><p>Coches y materiales. Todo en un mismo lugar.</p></div>
+<nav aria-label="Sección del catálogo"><button data-section="coches" aria-pressed="true">Coches</button><button data-section="materiales" aria-pressed="false">Materiales</button></nav>
+<section aria-labelledby="section-title"><div class="section-heading"><h2 id="section-title">Coches</h2><p id="count" role="status">Cargando catálogo…</p></div>
+<div class="filters"><label class="search">Buscar<input id="search" type="search" placeholder="Nombre, referencia, fabricante…"></label><label><span id="kind-label">Categoría</span><select id="kind"><option value="">Todas las categorías</option></select></label><label>Fabricante<select id="manufacturer"><option value="">Todos los fabricantes</option></select></label><button id="reset" class="secondary">Limpiar filtros</button></div>
+<p id="message" class="message" hidden></p><div id="results" class="grid" aria-busy="true"></div></section><noscript>Activa JavaScript para consultar el catálogo.</noscript></main>
+<footer>PEMCIB SLOT <span>Catálogo en construcción · Todos los registros son ficticios</span></footer>
+<dialog id="detail" aria-labelledby="detail-title"><div class="dialog-top"><span class="eyebrow">FICHA DEL CATÁLOGO</span><button id="close-detail" class="secondary" aria-label="Cerrar ficha">Cerrar ×</button></div><div id="detail-content"></div></dialog>
+</body></html>
