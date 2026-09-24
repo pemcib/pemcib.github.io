@@ -1,90 +1,3214 @@
 [
   {
     "cocheID": 1,
-    "denominacion": "Aster GT · Edición circuito",
-    "fabricante": "Aster Slot",
-    "codFabricante": "DEMO-C001",
-    "descDeco": "Azul y blanco · dorsal 21",
-    "categoria": "GT",
-    "anio": 2024,
-    "observaciones": "Registro ficticio para probar el catálogo.",
-    "notas": "Medidas de demostración, sin correspondencia con un modelo real.",
+    "denominacion": "Mercedes Benz W-196 Fangio 1955",
+    "fabricante": "Cartrix",
+    "codFabricante": "0910",
+    "descDeco": "GP Bélgica 1955 (J.M.Fangio)",
+    "categoria": "Formulas",
+    "anio": 2004,
     "dimensiones": {
-      "largoTotal": 141,
-      "anchoTotal": 62,
-      "altoTotal": 35,
-      "entreEjes": 82,
-      "batalla": 82
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
     },
+    "imagenSlot": "images/coches/1.jpg",
+    "imagenReal": "images/coches/reales/1.jpg",
     "imagenes": {
-      "slot": "images/demo-coche-1-slot.jpg",
-      "real": "images/demo-coche-1-real.jpg"
+      "slot": "images/coches/1.jpg",
+      "real": "images/coches/reales/1.jpg"
     }
   },
   {
     "cocheID": 2,
-    "denominacion": "Vértice R2 · Monte Norte",
-    "fabricante": "Vértice Racing",
-    "codFabricante": "DEMO-C002",
-    "descDeco": "Rojo y negro · dorsal 7",
-    "categoria": "Rally",
-    "anio": 2023,
-    "observaciones": "Registro ficticio para probar el catálogo.",
-    "notas": "Medidas de demostración, sin correspondencia con un modelo real.",
+    "denominacion": "Ferrari 312 T2",
+    "fabricante": "SuperSlot",
+    "codFabricante": "H2799",
+    "descDeco": "Ferrari Nro.2 Clay Regazzoni",
+    "categoria": "Formulas",
+    "anio": 0,
     "dimensiones": {
-      "largoTotal": 142,
-      "anchoTotal": 62,
-      "altoTotal": 35,
-      "entreEjes": 82,
-      "batalla": 82
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
     },
+    "imagenSlot": "images/coches/2.jpg",
+    "imagenReal": "images/coches/reales/2.jpg",
     "imagenes": {
-      "slot": "images/demo-coche-2-slot.jpg",
-      "real": "images/demo-coche-2-real.jpg"
+      "slot": "images/coches/2.jpg",
+      "real": "images/coches/reales/2.jpg"
     }
   },
   {
     "cocheID": 3,
-    "denominacion": "Aster P1 · Resistencia",
-    "fabricante": "Aster Slot",
-    "codFabricante": "DEMO-C003",
-    "descDeco": "Verde y grafito · dorsal 12",
-    "categoria": "Prototipos",
-    "anio": 2025,
-    "observaciones": "Registro ficticio para probar el catálogo.",
-    "notas": "Medidas de demostración, sin correspondencia con un modelo real.",
+    "denominacion": "Lotus 79 MK-IV",
+    "fabricante": "Exin",
+    "codFabricante": "4059",
+    "descDeco": "Martini Racing Nro.3 verde",
+    "categoria": "Formulas",
+    "anio": 0,
     "dimensiones": {
-      "largoTotal": 143,
-      "anchoTotal": 62,
-      "altoTotal": 35,
-      "entreEjes": 82,
-      "batalla": 82
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
     },
+    "imagenSlot": "images/coches/3.jpg",
+    "imagenReal": "images/coches/reales/3.jpg",
     "imagenes": {
-      "slot": "images/demo-coche-3-slot.jpg",
-      "real": "images/demo-coche-3-real.jpg"
+      "slot": "images/coches/3.jpg",
+      "real": "images/coches/reales/3.jpg"
     }
   },
   {
     "cocheID": 4,
-    "denominacion": "Meridian Classic · Serie 70",
-    "fabricante": "Meridian Models",
-    "codFabricante": "DEMO-C004",
-    "descDeco": "Naranja · dorsal 44",
-    "categoria": "Clásicos",
-    "anio": 1972,
-    "observaciones": "Registro ficticio para probar el catálogo.",
-    "notas": "Medidas de demostración, sin correspondencia con un modelo real.",
+    "denominacion": "Lotus 79 MK-IV",
+    "fabricante": "Exin",
+    "codFabricante": "4059",
+    "descDeco": "Martini Racing Nro.3 blanco",
+    "categoria": "Formulas",
+    "anio": 0,
     "dimensiones": {
-      "largoTotal": 144,
-      "anchoTotal": 62,
-      "altoTotal": 35,
-      "entreEjes": 82,
-      "batalla": 82
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
     },
+    "imagenSlot": "images/coches/4.jpg",
+    "imagenReal": "images/coches/reales/4.jpg",
     "imagenes": {
-      "slot": "images/demo-coche-4-slot.jpg",
-      "real": "images/demo-coche-4-real.jpg"
+      "slot": "images/coches/4.jpg",
+      "real": "images/coches/reales/4.jpg"
+    }
+  },
+  {
+    "cocheID": 5,
+    "denominacion": "Ferrari F1/87",
+    "fabricante": "Exin",
+    "codFabricante": "4087",
+    "descDeco": "Ferrari Nro.27 M.Alboretto",
+    "categoria": "Formulas",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/5.jpg",
+    "imagenReal": "images/coches/reales/5.jpg",
+    "imagenes": {
+      "slot": "images/coches/5.jpg",
+      "real": "images/coches/reales/5.jpg"
+    }
+  },
+  {
+    "cocheID": 6,
+    "denominacion": "Renault F1",
+    "fabricante": "SuperSlot",
+    "codFabricante": "C2723",
+    "descDeco": "Team Spirit Brasil 2006 Nro.1  F.Alonso",
+    "categoria": "Formulas",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/6.jpg",
+    "imagenReal": "images/coches/reales/6.jpg",
+    "imagenes": {
+      "slot": "images/coches/6.jpg",
+      "real": "images/coches/reales/6.jpg"
+    }
+  },
+  {
+    "cocheID": 7,
+    "denominacion": "ING Renault F1 Team",
+    "fabricante": "Tecnitoys",
+    "codFabricante": "1363",
+    "descDeco": "ING-Renault Nro.5 F.Alonso",
+    "categoria": "Formulas",
+    "anio": 2008,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/7.jpg",
+    "imagenReal": "images/coches/reales/7.jpg",
+    "imagenes": {
+      "slot": "images/coches/7.jpg",
+      "real": "images/coches/reales/7.jpg"
+    }
+  },
+  {
+    "cocheID": 8,
+    "denominacion": "Ferrari 2008",
+    "fabricante": "Tecnitoys",
+    "codFabricante": null,
+    "descDeco": "Ferrari",
+    "categoria": "Formulas",
+    "anio": 2008,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/8.jpg",
+    "imagenReal": "images/coches/reales/8.jpg",
+    "imagenes": {
+      "slot": "images/coches/8.jpg",
+      "real": "images/coches/reales/8.jpg"
+    }
+  },
+  {
+    "cocheID": 9,
+    "denominacion": "Mc Laren MP4-23",
+    "fabricante": "Tecnitoys",
+    "codFabricante": "1350",
+    "descDeco": "Vodafone Nro.22 L.Hamilton",
+    "categoria": "Formulas",
+    "anio": 2008,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/9.jpg",
+    "imagenReal": "images/coches/reales/9.jpg",
+    "imagenes": {
+      "slot": "images/coches/9.jpg",
+      "real": "images/coches/reales/9.jpg"
+    }
+  },
+  {
+    "cocheID": 10,
+    "denominacion": "Ferrari F60 2009",
+    "fabricante": "SuperSlot",
+    "codFabricante": "C3051",
+    "descDeco": "Ferrari Nro.4 K.Raikkonen",
+    "categoria": "Formulas",
+    "anio": 2010,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/10.jpg",
+    "imagenReal": "images/coches/reales/10.jpg",
+    "imagenes": {
+      "slot": "images/coches/10.jpg",
+      "real": "images/coches/reales/10.jpg"
+    }
+  },
+  {
+    "cocheID": 11,
+    "denominacion": "Porsche 917K",
+    "fabricante": "NSR",
+    "codFabricante": "1052",
+    "descDeco": "1000 km Bs.As. 1971 Nro.28 Reutemann/Fitipaldi",
+    "categoria": "Le Mans Series",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/11.jpg",
+    "imagenReal": "images/coches/reales/11.jpg",
+    "imagenes": {
+      "slot": "images/coches/11.jpg",
+      "real": "images/coches/reales/11.jpg"
+    }
+  },
+  {
+    "cocheID": 12,
+    "denominacion": "Porsche 959",
+    "fabricante": "Exin",
+    "codFabricante": "4083",
+    "descDeco": "Porsche Nro.160 blanco",
+    "categoria": "Le Mans Series",
+    "anio": 1988,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/12.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/12.jpg"
+    }
+  },
+  {
+    "cocheID": 13,
+    "denominacion": "Audi R8",
+    "fabricante": "Tecnitoys",
+    "codFabricante": null,
+    "descDeco": "Nro. 8 rojo",
+    "categoria": "Le Mans Series",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/13.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/13.jpg"
+    }
+  },
+  {
+    "cocheID": 14,
+    "denominacion": "Audi R8",
+    "fabricante": "Tecnitoys",
+    "codFabricante": null,
+    "descDeco": "Nro. 9 amarillo",
+    "categoria": "Le Mans Series",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/14.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/14.jpg"
+    }
+  },
+  {
+    "cocheID": 15,
+    "denominacion": "Peugeot 908 HDi FAP",
+    "fabricante": "Tecnitoys",
+    "codFabricante": "6271",
+    "descDeco": "Le Mans 2007 Nro.7",
+    "categoria": "Le Mans Series",
+    "anio": 2007,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/15.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/15.jpg"
+    }
+  },
+  {
+    "cocheID": 16,
+    "denominacion": "Audi R10 Tdi",
+    "fabricante": "Tecnitoys",
+    "codFabricante": "6251",
+    "descDeco": "Le Mans 2006 Nro.8",
+    "categoria": "Le Mans Series",
+    "anio": 2007,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/16.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/16.jpg"
+    }
+  },
+  {
+    "cocheID": 17,
+    "denominacion": "Porsche RS Spyder",
+    "fabricante": "SuperSlot",
+    "codFabricante": "H2812",
+    "descDeco": "DHL Nro. 6",
+    "categoria": "Le Mans Series",
+    "anio": 2006,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/17.jpg",
+    "imagenReal": "images/coches/reales/17.jpg",
+    "imagenes": {
+      "slot": "images/coches/17.jpg",
+      "real": "images/coches/reales/17.jpg"
+    }
+  },
+  {
+    "cocheID": 18,
+    "denominacion": "Aston Martin DBR9",
+    "fabricante": "Tecnitoys",
+    "codFabricante": "1347",
+    "descDeco": "Team Modena (GT1)",
+    "categoria": "Le Mans Series",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/18.jpg",
+    "imagenReal": "images/coches/reales/18.jpg",
+    "imagenes": {
+      "slot": "images/coches/18.jpg",
+      "real": "images/coches/reales/18.jpg"
+    }
+  },
+  {
+    "cocheID": 19,
+    "denominacion": "Ferrari 550 GTS Maranello",
+    "fabricante": "Tecnitoys",
+    "codFabricante": "1307",
+    "descDeco": "BMS Scuderia Italia",
+    "categoria": "GT",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/19.jpg",
+    "imagenReal": "images/coches/reales/19.jpg",
+    "imagenes": {
+      "slot": "images/coches/19.jpg",
+      "real": "images/coches/reales/19.jpg"
+    }
+  },
+  {
+    "cocheID": 20,
+    "denominacion": "Lancia Rally 037",
+    "fabricante": "Exin",
+    "codFabricante": "4073",
+    "descDeco": "Martini Racing Nro.7",
+    "categoria": "Rally",
+    "anio": 1985,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/20.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/20.jpg"
+    }
+  },
+  {
+    "cocheID": 21,
+    "denominacion": "Ferrari GTO",
+    "fabricante": "Exin",
+    "codFabricante": "4075",
+    "descDeco": "Cimarron Nro.9",
+    "categoria": "Rally",
+    "anio": 1986,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/21.jpg",
+    "imagenReal": "images/coches/reales/21.jpg",
+    "imagenes": {
+      "slot": "images/coches/21.jpg",
+      "real": "images/coches/reales/21.jpg"
+    }
+  },
+  {
+    "cocheID": 22,
+    "denominacion": "Red Bull RB5",
+    "fabricante": "Carrera",
+    "codFabricante": "27324",
+    "descDeco": "Red Bull Nro. 15 S.Vettel",
+    "categoria": "Formulas",
+    "anio": 2010,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/22.jpg",
+    "imagenReal": "images/coches/reales/22.jpg",
+    "imagenes": {
+      "slot": "images/coches/22.jpg",
+      "real": "images/coches/reales/22.jpg"
+    }
+  },
+  {
+    "cocheID": 23,
+    "denominacion": "Lancia Rally 037",
+    "fabricante": "Exin",
+    "codFabricante": "4073",
+    "descDeco": "Rally La Baule 1983 Nro.1",
+    "categoria": "Rally",
+    "anio": 1985,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/23.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/23.jpg"
+    }
+  },
+  {
+    "cocheID": 24,
+    "denominacion": "Lancia Stratos",
+    "fabricante": "Exin",
+    "codFabricante": "4055",
+    "descDeco": "Marlboro-Grundig  Rojo  Nro.3",
+    "categoria": "Rally",
+    "anio": 1977,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/24.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/24.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 25,
+    "denominacion": "Ford RS 200 Marlboro",
+    "fabricante": "Exin",
+    "codFabricante": "4078",
+    "descDeco": "Marlboro Nro.4 Rally Catalunya 1986",
+    "categoria": "Rally",
+    "anio": 1987,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/25.jpg",
+    "imagenReal": "images/coches/reales/25.jpg",
+    "imagenes": {
+      "slot": "images/coches/25.jpg",
+      "real": "images/coches/reales/25.jpg"
+    }
+  },
+  {
+    "cocheID": 26,
+    "denominacion": "Ford RS 200",
+    "fabricante": "Exin",
+    "codFabricante": "4079",
+    "descDeco": "Rally Acropolis 1986 Nro.6",
+    "categoria": "Rally",
+    "anio": 1987,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/26.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/26.jpg"
+    }
+  },
+  {
+    "cocheID": 27,
+    "denominacion": "Skoda Octavia WRC",
+    "fabricante": "Tecnitoys",
+    "codFabricante": "6124",
+    "descDeco": "Skoda Rally Argentina 2002 Nro.14",
+    "categoria": "Rally",
+    "anio": 2003,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/27.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/27.jpg"
+    }
+  },
+  {
+    "cocheID": 28,
+    "denominacion": "Hyundai Accent WRC",
+    "fabricante": "Tecnitoys",
+    "codFabricante": "6120",
+    "descDeco": null,
+    "categoria": "Rally",
+    "anio": 2003,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/28.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/28.jpg"
+    }
+  },
+  {
+    "cocheID": 29,
+    "denominacion": "Mini Flag Series",
+    "fabricante": "Ninco",
+    "codFabricante": "50320",
+    "descDeco": "US Flag",
+    "categoria": "Turismos",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/29.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/29.jpg"
+    }
+  },
+  {
+    "cocheID": 30,
+    "denominacion": "Mini Flag Series",
+    "fabricante": "Ninco",
+    "codFabricante": null,
+    "descDeco": "Britain Flag",
+    "categoria": "Turismos",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/30.jpg",
+    "imagenReal": "images/coches/reales/30.jpg",
+    "imagenes": {
+      "slot": "images/coches/30.jpg",
+      "real": "images/coches/reales/30.jpg"
+    }
+  },
+  {
+    "cocheID": 31,
+    "denominacion": "Abarth S2000",
+    "fabricante": "NSR",
+    "codFabricante": null,
+    "descDeco": "Santander-Shell Nro.5",
+    "categoria": "Rally",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/31.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/31.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 32,
+    "denominacion": "Jaguar XJR 9",
+    "fabricante": "Slot.it",
+    "codFabricante": null,
+    "descDeco": "Jaguar Racing-BP Nro.55",
+    "categoria": "Le Mans Series",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": 148,
+      "anchoTotal": 62,
+      "altoTotal": 30,
+      "entreEjes": 84,
+      "batalla": 98
+    },
+    "imagenSlot": "images/coches/32.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/32.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 33,
+    "denominacion": "Nissan 390",
+    "fabricante": "Reprotec",
+    "codFabricante": null,
+    "descDeco": "Coca Cola Zero nro. 55",
+    "categoria": "GT",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/33.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/33.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 34,
+    "denominacion": "Lamborghini Gallardo",
+    "fabricante": "Ninco",
+    "codFabricante": "80864 (body)",
+    "descDeco": "Heineken nro. 55",
+    "categoria": "GT",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/34.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/34.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 35,
+    "denominacion": "Mosler MT900R",
+    "fabricante": "Ninco",
+    "codFabricante": null,
+    "descDeco": "Martini/Total",
+    "categoria": "GT",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/35.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/35.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 36,
+    "denominacion": "Ford Mustang GT3 Long Beach",
+    "fabricante": "Ninco",
+    "codFabricante": "55019",
+    "descDeco": "Ford #3",
+    "categoria": "GT",
+    "anio": 2009,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/36.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/36.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 37,
+    "denominacion": "Lamborghini Diablo GT-R",
+    "fabricante": "Ninco",
+    "codFabricante": "55014",
+    "descDeco": "Actua",
+    "categoria": "GT",
+    "anio": 2010,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/37.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/37.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 38,
+    "denominacion": "Porsche 959",
+    "fabricante": "Exin",
+    "codFabricante": "4083",
+    "descDeco": "Porsche Nro.160 rojo",
+    "categoria": "Le Mans Series",
+    "anio": 1988,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 39,
+    "denominacion": "Ligier JS11",
+    "fabricante": "Exin",
+    "codFabricante": "4060",
+    "descDeco": "Gitanes D.Pironi Nro.27 rojo",
+    "categoria": "Formulas",
+    "anio": 1981,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/39.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/39.jpg"
+    }
+  },
+  {
+    "cocheID": 40,
+    "denominacion": "Lancia Stratos",
+    "fabricante": "Exin",
+    "codFabricante": "4055",
+    "descDeco": "Marlboro-Grundig  Verde Nro.3",
+    "categoria": "Rally",
+    "anio": 1977,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 41,
+    "denominacion": "Ferrari FXX",
+    "fabricante": "Tecnitoys",
+    "codFabricante": "6322",
+    "descDeco": "Frank Muller Nro.23",
+    "categoria": "Deportivos",
+    "anio": 2008,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/41.jpg",
+    "imagenReal": "images/coches/reales/41.jpg",
+    "imagenes": {
+      "slot": "images/coches/41.jpg",
+      "real": "images/coches/reales/41.jpg"
+    }
+  },
+  {
+    "cocheID": 42,
+    "denominacion": "Ford GT",
+    "fabricante": "SuperSlot",
+    "codFabricante": "H2823",
+    "descDeco": null,
+    "categoria": "Deportivos",
+    "anio": 2007,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/42.jpg",
+    "imagenReal": "images/coches/reales/42.jpg",
+    "imagenes": {
+      "slot": "images/coches/42.jpg",
+      "real": "images/coches/reales/42.jpg"
+    }
+  },
+  {
+    "cocheID": 43,
+    "denominacion": "Ford GT",
+    "fabricante": "SuperSlot",
+    "codFabricante": "H2734",
+    "descDeco": null,
+    "categoria": "Deportivos",
+    "anio": 2007,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/43.jpg",
+    "imagenReal": "images/coches/reales/43.jpg",
+    "imagenes": {
+      "slot": "images/coches/43.jpg",
+      "real": "images/coches/reales/43.jpg"
+    }
+  },
+  {
+    "cocheID": 44,
+    "denominacion": "Megane Trophy",
+    "fabricante": "Ninco",
+    "codFabricante": null,
+    "descDeco": "Show car Megane N4 2011",
+    "categoria": "GT",
+    "anio": 2011,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/44.jpg",
+    "imagenReal": "images/coches/reales/44.jpg",
+    "imagenes": {
+      "slot": "images/coches/44.jpg",
+      "real": "images/coches/reales/44.jpg"
+    }
+  },
+  {
+    "cocheID": 45,
+    "denominacion": "Megane Trophy",
+    "fabricante": "Ninco",
+    "codFabricante": null,
+    "descDeco": "Show car Megane V6 2011",
+    "categoria": "GT",
+    "anio": 2011,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/45.jpg",
+    "imagenReal": "images/coches/reales/45.jpg",
+    "imagenes": {
+      "slot": "images/coches/45.jpg",
+      "real": "images/coches/reales/45.jpg"
+    }
+  },
+  {
+    "cocheID": 46,
+    "denominacion": "Riley MKXX",
+    "fabricante": "Racer",
+    "codFabricante": "SW01",
+    "descDeco": "Matthews Motorsports Daytona 24hrs 2008 Nro.91",
+    "categoria": "Le Mans Series",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/46.jpg",
+    "imagenReal": "images/coches/reales/46.jpg",
+    "imagenes": {
+      "slot": "images/coches/46.jpg",
+      "real": "images/coches/reales/46.jpg"
+    }
+  },
+  {
+    "cocheID": 47,
+    "denominacion": "Megane Trophy",
+    "fabricante": "Ninco",
+    "codFabricante": null,
+    "descDeco": "ING/Total nro. 55",
+    "categoria": "GT",
+    "anio": 2011,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/47.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/47.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 48,
+    "denominacion": "Chevrolet WTCC Ultra",
+    "fabricante": "Ninco",
+    "codFabricante": "55002",
+    "descDeco": "Gris Plata",
+    "categoria": "Turismos",
+    "anio": 2010,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/48.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/48.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 49,
+    "denominacion": "Chevrolet WTCC Ultra",
+    "fabricante": "Ninco",
+    "codFabricante": "55001",
+    "descDeco": "Azul",
+    "categoria": "Turismos",
+    "anio": 2010,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/49.jpg",
+    "imagenReal": "images/coches/reales/49.jpg",
+    "imagenes": {
+      "slot": "images/coches/49.jpg",
+      "real": "images/coches/reales/49.jpg"
+    }
+  },
+  {
+    "cocheID": 50,
+    "denominacion": "Abarth 1000",
+    "fabricante": "Reprotec",
+    "codFabricante": null,
+    "descDeco": "Marlboro",
+    "categoria": "Clásicos",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/50.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/50.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 51,
+    "denominacion": "Abarth 1000",
+    "fabricante": "Reprotec",
+    "codFabricante": null,
+    "descDeco": "Gitanes",
+    "categoria": "Clásicos",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/51.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/51.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 52,
+    "denominacion": "Abarth 1000",
+    "fabricante": "Reprotec",
+    "codFabricante": null,
+    "descDeco": null,
+    "categoria": "Clásicos",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 53,
+    "denominacion": "Megane Trophy",
+    "fabricante": "Ninco",
+    "codFabricante": null,
+    "descDeco": "Kinestic",
+    "categoria": "GT",
+    "anio": 2011,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/53.jpg",
+    "imagenReal": "images/coches/reales/53.jpg",
+    "imagenes": {
+      "slot": "images/coches/53.jpg",
+      "real": "images/coches/reales/53.jpg"
+    }
+  },
+  {
+    "cocheID": 54,
+    "denominacion": "Abarth 500",
+    "fabricante": "NSR",
+    "codFabricante": null,
+    "descDeco": "Gulf nro.55",
+    "categoria": "GT",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/54.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/54.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 55,
+    "denominacion": "Abarth 500",
+    "fabricante": "NSR",
+    "codFabricante": null,
+    "descDeco": "Monster",
+    "categoria": "GT",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/55.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/55.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 56,
+    "denominacion": "Audi R8 GT3",
+    "fabricante": "NSR",
+    "codFabricante": null,
+    "descDeco": "Monster Energy",
+    "categoria": "GT",
+    "anio": 2011,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/56.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/56.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 57,
+    "denominacion": "Renault F1 2004",
+    "fabricante": "SuperSlot",
+    "codFabricante": "H2582",
+    "descDeco": null,
+    "categoria": "Formulas",
+    "anio": 2004,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/57.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/57.jpg"
+    }
+  },
+  {
+    "cocheID": 58,
+    "denominacion": "Nissan 390",
+    "fabricante": "Reprotec",
+    "codFabricante": null,
+    "descDeco": "Red Bull",
+    "categoria": "GT",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/58.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/58.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 59,
+    "denominacion": "Corvette CR6",
+    "fabricante": "NSR",
+    "codFabricante": null,
+    "descDeco": "Coca Cola",
+    "categoria": "GT",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/59.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/59.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 60,
+    "denominacion": "Ferrari F40",
+    "fabricante": "Slot.it",
+    "codFabricante": null,
+    "descDeco": "Test Car Le mans 1994",
+    "categoria": "GT",
+    "anio": 1994,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": 95
+    },
+    "imagenSlot": "images/coches/60.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/60.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 61,
+    "denominacion": "Lancia LC2/85",
+    "fabricante": "Slot.it",
+    "codFabricante": null,
+    "descDeco": "Gitanes",
+    "categoria": "Le Mans Series",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": 148,
+      "anchoTotal": 62,
+      "altoTotal": 30,
+      "entreEjes": 84,
+      "batalla": 100
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 62,
+    "denominacion": "Saleen S7-R",
+    "fabricante": "Arrow Slot",
+    "codFabricante": null,
+    "descDeco": "Gulf",
+    "categoria": "GT",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": 147,
+      "anchoTotal": 63,
+      "altoTotal": 33,
+      "entreEjes": 84,
+      "batalla": 104
+    },
+    "imagenSlot": "images/coches/62.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/62.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 63,
+    "denominacion": "Rend-Ford",
+    "fabricante": "Ninco",
+    "codFabricante": "50341",
+    "descDeco": "Corona",
+    "categoria": "Formulas",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/63.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/63.jpg"
+    }
+  },
+  {
+    "cocheID": 64,
+    "denominacion": "Saleen S7-R",
+    "fabricante": "Arrow Slot",
+    "codFabricante": null,
+    "descDeco": "PlayStation",
+    "categoria": "GT",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": 33,
+      "entreEjes": 84,
+      "batalla": 104
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 65,
+    "denominacion": "Lola B06/90",
+    "fabricante": "Slot.it",
+    "codFabricante": "CA-22z2",
+    "descDeco": "PowerAde",
+    "categoria": "Le Mans Series",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": 147.72,
+      "anchoTotal": 63.4,
+      "altoTotal": 30.33,
+      "entreEjes": 90.15,
+      "batalla": 110
+    },
+    "imagenSlot": "images/coches/65.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/65.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 66,
+    "denominacion": "Radical SR9",
+    "fabricante": "Scaleauto",
+    "codFabricante": "SC-6009",
+    "descDeco": "Le Mans 2007 Nro. 27 Team Bruichaddich",
+    "categoria": "Le Mans Series",
+    "anio": 2010,
+    "dimensiones": {
+      "largoTotal": 145.8,
+      "anchoTotal": 65.1,
+      "altoTotal": 33.1,
+      "entreEjes": 83,
+      "batalla": 102
+    },
+    "imagenSlot": "images/coches/66.jpg",
+    "imagenReal": "images/coches/reales/66.jpg",
+    "imagenes": {
+      "slot": "images/coches/66.jpg",
+      "real": "images/coches/reales/66.jpg"
+    }
+  },
+  {
+    "cocheID": 67,
+    "denominacion": "Chaparral 2E",
+    "fabricante": "Slot.it",
+    "codFabricante": "CW08",
+    "descDeco": "Monterey GP 1966",
+    "categoria": "Le Mans Series",
+    "anio": 2010,
+    "dimensiones": {
+      "largoTotal": 127,
+      "anchoTotal": 60,
+      "altoTotal": null,
+      "entreEjes": 77,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/67.jpg",
+    "imagenReal": "images/coches/reales/67.jpg",
+    "imagenes": {
+      "slot": "images/coches/67.jpg",
+      "real": "images/coches/reales/67.jpg"
+    }
+  },
+  {
+    "cocheID": 68,
+    "denominacion": "Mc Laren F1 GTR",
+    "fabricante": "Slot.it",
+    "codFabricante": null,
+    "descDeco": "Interclubs 2013",
+    "categoria": "GT",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": 149,
+      "anchoTotal": 63,
+      "altoTotal": 35,
+      "entreEjes": 83,
+      "batalla": 99
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 69,
+    "denominacion": "Megane Trophy",
+    "fabricante": "Ninco",
+    "codFabricante": "50591",
+    "descDeco": "Bedelco",
+    "categoria": "GT",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/69.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/69.jpg"
+    }
+  },
+  {
+    "cocheID": 70,
+    "denominacion": "Porsche 911 GT1 EVO98",
+    "fabricante": "Slot.it",
+    "codFabricante": null,
+    "descDeco": "PEMCIB CA River Pate",
+    "categoria": "GT",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": 147.65,
+      "anchoTotal": 64.5,
+      "altoTotal": 31.8,
+      "entreEjes": 80,
+      "batalla": 101.7
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 71,
+    "denominacion": "Porsche 997",
+    "fabricante": "Ninco",
+    "codFabricante": null,
+    "descDeco": "24hs de SPA 2009",
+    "categoria": "GT",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/71.jpg",
+    "imagenReal": "images/coches/reales/71.jpg",
+    "imagenes": {
+      "slot": "images/coches/71.jpg",
+      "real": "images/coches/reales/71.jpg"
+    }
+  },
+  {
+    "cocheID": 72,
+    "denominacion": "Lancia LC2/85",
+    "fabricante": "Slot.it",
+    "codFabricante": null,
+    "descDeco": "1000 km SPA 1985",
+    "categoria": "Le Mans Series",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": 148,
+      "anchoTotal": 62,
+      "altoTotal": 30,
+      "entreEjes": 84,
+      "batalla": 100
+    },
+    "imagenSlot": "images/coches/72.jpg",
+    "imagenReal": "images/coches/reales/72.jpg",
+    "imagenes": {
+      "slot": "images/coches/72.jpg",
+      "real": "images/coches/reales/72.jpg"
+    }
+  },
+  {
+    "cocheID": 73,
+    "denominacion": "GP Formula",
+    "fabricante": "All Slot Car",
+    "codFabricante": "GP 000",
+    "descDeco": "Ferrari F150 Italia",
+    "categoria": "Formulas",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 74,
+    "denominacion": "Reanult Megane Trophy KONI",
+    "fabricante": "Ninco",
+    "codFabricante": "50414",
+    "descDeco": "Koni-La ciudad del motor Nro.1 L.M.Reyes",
+    "categoria": "GT",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": 136,
+      "anchoTotal": 60,
+      "altoTotal": 43,
+      "entreEjes": 81,
+      "batalla": 98
+    },
+    "imagenSlot": "images/coches/74.jpg",
+    "imagenReal": "images/coches/reales/74.jpg",
+    "imagenes": {
+      "slot": "images/coches/74.jpg",
+      "real": "images/coches/reales/74.jpg"
+    }
+  },
+  {
+    "cocheID": 75,
+    "denominacion": "Oreca Dallara",
+    "fabricante": "Spirit",
+    "codFabricante": null,
+    "descDeco": null,
+    "categoria": "Le Mans Series",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 76,
+    "denominacion": "GP Formula",
+    "fabricante": "All Slot Car",
+    "codFabricante": "GP 000",
+    "descDeco": "Retro Brabham BT44",
+    "categoria": "Formulas",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 77,
+    "denominacion": "Lancia Beta Montecarlo",
+    "fabricante": "Sideways",
+    "codFabricante": null,
+    "descDeco": null,
+    "categoria": "Le Mans Series",
+    "anio": 2013,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/77.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/77.jpg"
+    }
+  },
+  {
+    "cocheID": 78,
+    "denominacion": "Peugeot 406 Coupe",
+    "fabricante": "Spirit",
+    "codFabricante": "501102",
+    "descDeco": "Mardi Gras nro. 17",
+    "categoria": "GT",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/78.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/78.jpg"
+    }
+  },
+  {
+    "cocheID": 79,
+    "denominacion": "Radical SR9",
+    "fabricante": "Scaleauto",
+    "codFabricante": null,
+    "descDeco": "Toro Rojo/River nro.37",
+    "categoria": "Le Mans Series",
+    "anio": 2013,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 80,
+    "denominacion": "Minardi F1",
+    "fabricante": "Ninco",
+    "codFabricante": "50200",
+    "descDeco": null,
+    "categoria": "Formulas",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/80.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/80.jpg"
+    }
+  },
+  {
+    "cocheID": 81,
+    "denominacion": "Lola B06/90",
+    "fabricante": "Slot.it",
+    "codFabricante": "CS-22LB",
+    "descDeco": "Rebellion Racing Team nro. 13 Le Mans 2010",
+    "categoria": "Le Mans Series",
+    "anio": 2013,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/81.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/81.jpg"
+    }
+  },
+  {
+    "cocheID": 82,
+    "denominacion": "Ascari KZ1",
+    "fabricante": "Ninco",
+    "codFabricante": "50443",
+    "descDeco": "Club Ninco Plata",
+    "categoria": "GT",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": 132,
+      "anchoTotal": 61.5,
+      "altoTotal": 33,
+      "entreEjes": 82.5,
+      "batalla": 100
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 83,
+    "denominacion": "Ascari KZ1",
+    "fabricante": "Ninco",
+    "codFabricante": "50443",
+    "descDeco": "Club Ninco",
+    "categoria": "GT",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 84,
+    "denominacion": "Porsche 997",
+    "fabricante": "Ninco",
+    "codFabricante": null,
+    "descDeco": "GT3 Cup-Coca Cola",
+    "categoria": "GT",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 85,
+    "denominacion": "Nissan 350Z",
+    "fabricante": "Ninco",
+    "codFabricante": null,
+    "descDeco": null,
+    "categoria": "GT",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": 94
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/85.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/85.jpg"
+    }
+  },
+  {
+    "cocheID": 86,
+    "denominacion": "Aston Martin DBR9",
+    "fabricante": "Black Arrow",
+    "codFabricante": null,
+    "descDeco": "Gulf",
+    "categoria": "GT",
+    "anio": 2013,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/86.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/86.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 87,
+    "denominacion": "Sisu SL 250",
+    "fabricante": "Fly",
+    "codFabricante": "08048",
+    "descDeco": null,
+    "categoria": "Camiones",
+    "anio": 2008,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 88,
+    "denominacion": "Nissan 390",
+    "fabricante": "Slot.it",
+    "codFabricante": "CA14d",
+    "descDeco": "Le Mans 1998 nro. 33",
+    "categoria": "GT",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": 146,
+      "anchoTotal": 65,
+      "altoTotal": null,
+      "entreEjes": 82.5,
+      "batalla": 100
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/88.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/88.jpg"
+    }
+  },
+  {
+    "cocheID": 89,
+    "denominacion": "Porsche 997",
+    "fabricante": "Ninco",
+    "codFabricante": null,
+    "descDeco": null,
+    "categoria": "GT",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": 141,
+      "anchoTotal": 62,
+      "altoTotal": 38,
+      "entreEjes": 72.5,
+      "batalla": 92
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 90,
+    "denominacion": "Ford GT40 MKII",
+    "fabricante": "Slot.it",
+    "codFabricante": "CA20z",
+    "descDeco": "Martini Nro.17",
+    "categoria": "Le Mans Series",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/90.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/90.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 92,
+    "denominacion": "Mc Laren MD8",
+    "fabricante": "Slot.it",
+    "codFabricante": null,
+    "descDeco": null,
+    "categoria": "Le Mans Series",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 93,
+    "denominacion": "Matra-Simca MS 670 B",
+    "fabricante": "Slot.it",
+    "codFabricante": "CA27a",
+    "descDeco": "Le Mans 1974 Nro. 8 - Gitanes",
+    "categoria": "Le Mans Series",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/93.jpg",
+    "imagenReal": "images/coches/reales/93.jpg",
+    "imagenes": {
+      "slot": "images/coches/93.jpg",
+      "real": "images/coches/reales/93.jpg"
+    }
+  },
+  {
+    "cocheID": 94,
+    "denominacion": "Honda HSV",
+    "fabricante": "Scaleauto",
+    "codFabricante": null,
+    "descDeco": null,
+    "categoria": "GT",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 95,
+    "denominacion": "Alfa Romeo",
+    "fabricante": "Slot.it",
+    "codFabricante": null,
+    "descDeco": null,
+    "categoria": "Le Mans Series",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 96,
+    "denominacion": "Porsche 911 GT1 EVO98",
+    "fabricante": "Slot.it",
+    "codFabricante": "CA23C",
+    "descDeco": "Zakspeed",
+    "categoria": "GT",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": 147.65,
+      "anchoTotal": 64.5,
+      "altoTotal": 31.8,
+      "entreEjes": 80,
+      "batalla": 101.7
+    },
+    "imagenSlot": "images/coches/96.jpg",
+    "imagenReal": "images/coches/reales/96.jpg",
+    "imagenes": {
+      "slot": "images/coches/96.jpg",
+      "real": "images/coches/reales/96.jpg"
+    }
+  },
+  {
+    "cocheID": 97,
+    "denominacion": "Porsche 911 GT1 EVO98",
+    "fabricante": "Slot.it",
+    "codFabricante": "CW13",
+    "descDeco": "IBM/Mobil",
+    "categoria": "GT",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": 147.65,
+      "anchoTotal": 64.5,
+      "altoTotal": 31.8,
+      "entreEjes": 80,
+      "batalla": 101.7
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 98,
+    "denominacion": "Mosler MT900R",
+    "fabricante": "NSR",
+    "codFabricante": null,
+    "descDeco": null,
+    "categoria": "GT",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 99,
+    "denominacion": "BMW M1",
+    "fabricante": "Sideways",
+    "codFabricante": "SW23",
+    "descDeco": null,
+    "categoria": "Grupo 5",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/99.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/99.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 100,
+    "denominacion": "Mc Laren F1 GTR",
+    "fabricante": "Ninco",
+    "codFabricante": "50324",
+    "descDeco": "SOK",
+    "categoria": "GT",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/100.jpg",
+    "imagenReal": "images/coches/reales/100.jpg",
+    "imagenes": {
+      "slot": "images/coches/100.jpg",
+      "real": "images/coches/reales/100.jpg"
+    }
+  },
+  {
+    "cocheID": 101,
+    "denominacion": "Mc Laren F1 GTR",
+    "fabricante": "Ninco",
+    "codFabricante": "50273",
+    "descDeco": "Le Mans 1996 Nro. 36 - FINA",
+    "categoria": "GT",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/101.jpg",
+    "imagenReal": "images/coches/reales/101.jpg",
+    "imagenes": {
+      "slot": "images/coches/101.jpg",
+      "real": "images/coches/reales/101.jpg"
+    }
+  },
+  {
+    "cocheID": 102,
+    "denominacion": "Lola B11/80",
+    "fabricante": "Slot.it",
+    "codFabricante": "CA22c",
+    "descDeco": "Office 2010 Nro.33",
+    "categoria": "Le Mans Series",
+    "anio": 2013,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": 92,
+      "batalla": 109
+    },
+    "imagenSlot": "images/coches/102.jpg",
+    "imagenReal": "images/coches/reales/102.jpg",
+    "imagenes": {
+      "slot": "images/coches/102.jpg",
+      "real": "images/coches/reales/102.jpg"
+    }
+  },
+  {
+    "cocheID": 103,
+    "denominacion": "Toyota",
+    "fabricante": "Slot.it",
+    "codFabricante": "CA19d",
+    "descDeco": "Minolta nro 36 Le Mans 1988",
+    "categoria": "Grupo C",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/103.jpg",
+    "imagenReal": "images/coches/reales/103.jpg",
+    "imagenes": {
+      "slot": "images/coches/103.jpg",
+      "real": "images/coches/reales/103.jpg"
+    }
+  },
+  {
+    "cocheID": 104,
+    "denominacion": "Audi A5",
+    "fabricante": "Carrera",
+    "codFabricante": "27438",
+    "descDeco": "Ekstrom nro.3",
+    "categoria": "DTM",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/104.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/104.jpg"
+    }
+  },
+  {
+    "cocheID": 105,
+    "denominacion": "Audi A4",
+    "fabricante": "Carrera",
+    "codFabricante": "27127",
+    "descDeco": "Joest Racing nro. 14",
+    "categoria": "DTM",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/105.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/105.jpg"
+    }
+  },
+  {
+    "cocheID": 106,
+    "denominacion": "Matra-Simca MS 670 B",
+    "fabricante": "Slot.it",
+    "codFabricante": "CA27z",
+    "descDeco": "Gulf clásica",
+    "categoria": "Le Mans Series",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/106.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/106.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 107,
+    "denominacion": "Capri Zakspeed Turbo",
+    "fabricante": "Sideways",
+    "codFabricante": "SW29",
+    "descDeco": null,
+    "categoria": "Le Mans Series",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 108,
+    "denominacion": "Mercedes AMG C-Coupe",
+    "fabricante": "Scalextric",
+    "codFabricante": "A10137S300",
+    "descDeco": "Pascal Werlhein nro. 25",
+    "categoria": "DTM",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/108.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/108.jpg"
+    }
+  },
+  {
+    "cocheID": 109,
+    "denominacion": "Ferrari 512 BB",
+    "fabricante": "Sideways",
+    "codFabricante": null,
+    "descDeco": null,
+    "categoria": "Grupo 5",
+    "anio": 2014,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 110,
+    "denominacion": "Mercedes Benz SLS GT3",
+    "fabricante": "Scaleauto",
+    "codFabricante": null,
+    "descDeco": "Petronas",
+    "categoria": "GT",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 111,
+    "denominacion": "Ferrai 458 Italia GT3",
+    "fabricante": "Black Arrow",
+    "codFabricante": null,
+    "descDeco": "Red Bull",
+    "categoria": "GT",
+    "anio": 2015,
+    "dimensiones": {
+      "largoTotal": 152,
+      "anchoTotal": 63.5,
+      "altoTotal": 34,
+      "entreEjes": 82.5,
+      "batalla": 102.5
+    },
+    "imagenSlot": "images/coches/111.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/111.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 112,
+    "denominacion": "Audi A5 DTM",
+    "fabricante": "SCX",
+    "codFabricante": "A10161S300",
+    "descDeco": null,
+    "categoria": "DTM",
+    "anio": 2015,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/112.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/112.jpg"
+    }
+  },
+  {
+    "cocheID": 113,
+    "denominacion": "Porsche 956 LH",
+    "fabricante": "Slot.it",
+    "codFabricante": null,
+    "descDeco": null,
+    "categoria": "Grupo C",
+    "anio": 2015,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 114,
+    "denominacion": "Mercedes AMG C-Coupé DTM",
+    "fabricante": "SCX",
+    "codFabricante": "A10137S300",
+    "descDeco": "Juncadella",
+    "categoria": "DTM",
+    "anio": 2015,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/114.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/114.jpg"
+    }
+  },
+  {
+    "cocheID": 115,
+    "denominacion": "Nissan",
+    "fabricante": "Slot.it",
+    "codFabricante": "CA28b",
+    "descDeco": "Tenobras nro 85 Le Mans 1990",
+    "categoria": "Grupo C",
+    "anio": 2015,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 116,
+    "denominacion": "Buggyra",
+    "fabricante": "Fly",
+    "codFabricante": "204201",
+    "descDeco": "Vodafone-Petronas",
+    "categoria": "Camiones",
+    "anio": 2015,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 117,
+    "denominacion": "Lexus SC430",
+    "fabricante": "Ninco",
+    "codFabricante": "50511",
+    "descDeco": null,
+    "categoria": "GT",
+    "anio": 0,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 118,
+    "denominacion": "Ascari KZ1",
+    "fabricante": "Ninco",
+    "codFabricante": "50487",
+    "descDeco": "Jones #22",
+    "categoria": "GT",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": 132,
+      "anchoTotal": 61.5,
+      "altoTotal": 33,
+      "entreEjes": 82.5,
+      "batalla": 100
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/118.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/118.jpg"
+    }
+  },
+  {
+    "cocheID": 119,
+    "denominacion": "Porsche 911",
+    "fabricante": "Scaleauto",
+    "codFabricante": null,
+    "descDeco": null,
+    "categoria": "GT",
+    "anio": 2016,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 120,
+    "denominacion": "Peugeot 406 Silhouette",
+    "fabricante": "Spirit",
+    "codFabricante": null,
+    "descDeco": "SCX digital",
+    "categoria": "GT",
+    "anio": 2018,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 121,
+    "denominacion": "BMW 320",
+    "fabricante": "Sideways",
+    "codFabricante": "SW42",
+    "descDeco": null,
+    "categoria": "Grupo 5",
+    "anio": 2016,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 122,
+    "denominacion": "Lamborghini Murcielago",
+    "fabricante": "Black Arrow",
+    "codFabricante": "BACMKITM",
+    "descDeco": "Black Arrow Verde",
+    "categoria": "GT",
+    "anio": 2018,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": 84.5,
+      "batalla": 104
+    },
+    "imagenSlot": "images/coches/122.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/122.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 123,
+    "denominacion": "Ford GT GT3",
+    "fabricante": "Sideways",
+    "codFabricante": "SWCAR02A",
+    "descDeco": "Chip Ganassi nro.68",
+    "categoria": "GT",
+    "anio": 2022,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": 84.1,
+      "batalla": 99.4
+    },
+    "imagenSlot": "images/coches/123.jpg",
+    "imagenReal": "images/coches/reales/123.jpg",
+    "imagenes": {
+      "slot": "images/coches/123.jpg",
+      "real": "images/coches/reales/123.jpg"
+    }
+  },
+  {
+    "cocheID": 124,
+    "denominacion": "Ford GT GT3",
+    "fabricante": "Sideways",
+    "codFabricante": "SWCAR02C",
+    "descDeco": "Wynns Keating Motorsport nro.85",
+    "categoria": "GT",
+    "anio": 2022,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": 84.1,
+      "batalla": 99.4
+    },
+    "imagenSlot": "images/coches/124.jpg",
+    "imagenReal": "images/coches/reales/124.jpg",
+    "imagenes": {
+      "slot": "images/coches/124.jpg",
+      "real": "images/coches/reales/124.jpg"
+    }
+  },
+  {
+    "cocheID": 125,
+    "denominacion": "Minardi PS01",
+    "fabricante": "SCX",
+    "codFabricante": "6194",
+    "descDeco": "Debut GP Australia 2001",
+    "categoria": "Formulas",
+    "anio": 2001,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/125.jpg",
+    "imagenReal": "images/coches/reales/125.jpg",
+    "imagenes": {
+      "slot": "images/coches/125.jpg",
+      "real": "images/coches/reales/125.jpg"
+    }
+  },
+  {
+    "cocheID": 126,
+    "denominacion": "Formula 1 86/89",
+    "fabricante": "NSR",
+    "codFabricante": "NSR0162IL",
+    "descDeco": "Williams FW11 Piquet nro.6 1986",
+    "categoria": "Formulas",
+    "anio": 2023,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/126.jpg",
+    "imagenReal": "images/coches/reales/126.jpg",
+    "imagenes": {
+      "slot": "images/coches/126.jpg",
+      "real": "images/coches/reales/126.jpg"
+    }
+  },
+  {
+    "cocheID": 127,
+    "denominacion": "Formula 1 86/89",
+    "fabricante": "NSR",
+    "codFabricante": "NSR0162IL",
+    "descDeco": "Benetton B189 Nanini nro.19",
+    "categoria": "Formulas",
+    "anio": 2023,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/127.jpg",
+    "imagenReal": "images/coches/reales/127.jpg",
+    "imagenes": {
+      "slot": "images/coches/127.jpg",
+      "real": "images/coches/reales/127.jpg"
+    }
+  },
+  {
+    "cocheID": 128,
+    "denominacion": "Ferrari F10",
+    "fabricante": "Carrera",
+    "codFabricante": "27346",
+    "descDeco": "2010 Nro.7 Massa",
+    "categoria": "Formulas",
+    "anio": 2010,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/128.jpg",
+    "imagenReal": "images/coches/reales/128.jpg",
+    "imagenes": {
+      "slot": "images/coches/128.jpg",
+      "real": "images/coches/reales/128.jpg"
+    }
+  },
+  {
+    "cocheID": 129,
+    "denominacion": "Ferrari F10",
+    "fabricante": "Carrera",
+    "codFabricante": "28323",
+    "descDeco": "2010 Nro.8 Alonso",
+    "categoria": "Formulas",
+    "anio": 2010,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/129.jpg",
+    "imagenReal": "images/coches/reales/129.jpg",
+    "imagenes": {
+      "slot": "images/coches/129.jpg",
+      "real": "images/coches/reales/129.jpg"
+    }
+  },
+  {
+    "cocheID": 130,
+    "denominacion": "Ferrari F150 Italia",
+    "fabricante": "Carrera",
+    "codFabricante": "27417",
+    "descDeco": "2011 Nro.5 Alonso",
+    "categoria": "Formulas",
+    "anio": 2012,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/130.jpg",
+    "imagenReal": "images/coches/reales/130.jpg",
+    "imagenes": {
+      "slot": "images/coches/130.jpg",
+      "real": "images/coches/reales/130.jpg"
+    }
+  },
+  {
+    "cocheID": 131,
+    "denominacion": "McLaren MP4/30",
+    "fabricante": "Scalextric",
+    "codFabricante": "C3620",
+    "descDeco": "2015 Nro.14 Alonso",
+    "categoria": "Formulas",
+    "anio": 2015,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/131.jpg",
+    "imagenReal": "images/coches/reales/131.jpg",
+    "imagenes": {
+      "slot": "images/coches/131.jpg",
+      "real": "images/coches/reales/131.jpg"
+    }
+  },
+  {
+    "cocheID": 132,
+    "denominacion": "Toyota TS050",
+    "fabricante": "SRC",
+    "codFabricante": null,
+    "descDeco": "2018 Le Mans Winner ",
+    "categoria": "Le Mans Series",
+    "anio": 2020,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/132.jpg",
+    "imagenReal": "images/coches/reales/132.jpg",
+    "imagenes": {
+      "slot": "images/coches/132.jpg",
+      "real": "images/coches/reales/132.jpg"
+    }
+  },
+  {
+    "cocheID": 133,
+    "denominacion": "McLaren MP4/30",
+    "fabricante": "Scalextric",
+    "codFabricante": "C3705",
+    "descDeco": "2016 Nro.14 Alonso",
+    "categoria": "Formulas",
+    "anio": 2016,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/133.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/133.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 134,
+    "denominacion": "Brabham BT34",
+    "fabricante": "PEMCIB",
+    "codFabricante": "1",
+    "descDeco": "1972 Nro 2 Carlos Reutemann",
+    "categoria": "Formulas",
+    "anio": 2024,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/134.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/134.jpg"
+    }
+  },
+  {
+    "cocheID": 135,
+    "denominacion": "Brabham BT45",
+    "fabricante": "PEMCIB",
+    "codFabricante": "2",
+    "descDeco": "1976 Nro 7 Carlos Reutemann",
+    "categoria": "Formulas",
+    "anio": 2025,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/135.jpg",
+    "imagenReal": "images/coches/reales/135.jpg",
+    "imagenes": {
+      "slot": "images/coches/135.jpg",
+      "real": "images/coches/reales/135.jpg"
+    }
+  },
+  {
+    "cocheID": 136,
+    "denominacion": "Ferrari 312 T3",
+    "fabricante": "PEMCIB",
+    "codFabricante": "3",
+    "descDeco": null,
+    "categoria": "Formulas",
+    "anio": 2024,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/136.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/136.jpg"
+    }
+  },
+  {
+    "cocheID": 137,
+    "denominacion": "Dallara DW12",
+    "fabricante": "PEMCIB",
+    "codFabricante": "4",
+    "descDeco": "2017 Nro 29 Fernando Alonso",
+    "categoria": "Formulas",
+    "anio": 2024,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/137.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/137.jpg"
+    }
+  },
+  {
+    "cocheID": 138,
+    "denominacion": "Brabham BT42",
+    "fabricante": "PEMCIB",
+    "codFabricante": "5",
+    "descDeco": null,
+    "categoria": "Formulas",
+    "anio": 2025,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/138.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/138.jpg"
+    }
+  },
+  {
+    "cocheID": 139,
+    "denominacion": "Peugeot 9x8 LMH",
+    "fabricante": "Scaleauto",
+    "codFabricante": "SC-6373",
+    "descDeco": null,
+    "categoria": "Le Mans Series",
+    "anio": 2025,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": 93.8,
+      "batalla": 111.8
+    },
+    "imagenSlot": "images/coches/139.jpg",
+    "imagenReal": "images/coches/reales/139.jpg",
+    "imagenes": {
+      "slot": "images/coches/139.jpg",
+      "real": "images/coches/reales/139.jpg"
+    }
+  },
+  {
+    "cocheID": 140,
+    "denominacion": "Ferrari F138",
+    "fabricante": "Carrera",
+    "codFabricante": "27466",
+    "descDeco": "2013 Nro 3 Fernando Alonso",
+    "categoria": "Formulas",
+    "anio": 2013,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/140.jpg",
+    "imagenReal": "images/coches/reales/140.jpg",
+    "imagenes": {
+      "slot": "images/coches/140.jpg",
+      "real": "images/coches/reales/140.jpg"
+    }
+  },
+  {
+    "cocheID": 141,
+    "denominacion": "McLaren Honda MCL32",
+    "fabricante": "Scalextric",
+    "codFabricante": "C3956",
+    "descDeco": "2017 Nro 14 Fernando Alonso",
+    "categoria": "Formulas",
+    "anio": 2017,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": "images/coches/141.jpg",
+    "imagenReal": "images/coches/reales/141.jpg",
+    "imagenes": {
+      "slot": "images/coches/141.jpg",
+      "real": "images/coches/reales/141.jpg"
+    }
+  },
+  {
+    "cocheID": 142,
+    "denominacion": "Peugeot 9x8 LMH",
+    "fabricante": "Scaleauto",
+    "codFabricante": null,
+    "descDeco": "2025 Nro 94 Deco Propia",
+    "categoria": "Le Mans Series",
+    "anio": 2025,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": 93.8,
+      "batalla": 111.8
+    },
+    "imagenSlot": "images/coches/142.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/142.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 143,
+    "denominacion": "BMW M-Hybrid GTP",
+    "fabricante": "Scaleauto",
+    "codFabricante": "SC-3637",
+    "descDeco": "2025 Nro. 5 Deco Propia",
+    "categoria": "Le Mans Series",
+    "anio": 2023,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": null,
+      "batalla": null
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
+    }
+  },
+  {
+    "cocheID": 144,
+    "denominacion": "Audi R8 LMS GT2",
+    "fabricante": "Scaleauto",
+    "codFabricante": null,
+    "descDeco": null,
+    "categoria": "GT",
+    "anio": null,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": 87,
+      "batalla": 104
+    },
+    "imagenSlot": "images/coches/144.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/144.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 145,
+    "denominacion": "Porsche 934",
+    "fabricante": "Fly",
+    "codFabricante": "88141 ",
+    "descDeco": "1976 winner Trans-Am n° 16 Vasek Polak",
+    "categoria": "GT",
+    "anio": 1976,
+    "dimensiones": {
+      "largoTotal": null,
+      "anchoTotal": null,
+      "altoTotal": null,
+      "entreEjes": 73.1,
+      "batalla": 86.7
+    },
+    "imagenSlot": null,
+    "imagenReal": "images/coches/reales/145.jpg",
+    "imagenes": {
+      "slot": null,
+      "real": "images/coches/reales/145.jpg"
+    }
+  },
+  {
+    "cocheID": 146,
+    "denominacion": "Porsche 911 Carrera RS 2.7",
+    "fabricante": "Scaleauto",
+    "codFabricante": "SC-3617",
+    "descDeco": "1973 Nro 5 Gitanes Deco Propia",
+    "categoria": "GT",
+    "anio": 2026,
+    "dimensiones": {
+      "largoTotal": 130.2,
+      "anchoTotal": 64,
+      "altoTotal": 39.2,
+      "entreEjes": 70.5,
+      "batalla": 84.1
+    },
+    "imagenSlot": "images/coches/146.jpg",
+    "imagenReal": null,
+    "imagenes": {
+      "slot": "images/coches/146.jpg",
+      "real": null
+    }
+  },
+  {
+    "cocheID": 147,
+    "denominacion": "Porsche 911 Carrera RSR 3.0",
+    "fabricante": "Scaleauto",
+    "codFabricante": "SC-3618",
+    "descDeco": "1973 Nro 5 Gitanes Deco Propia",
+    "categoria": "GT",
+    "anio": 2026,
+    "dimensiones": {
+      "largoTotal": 130.2,
+      "anchoTotal": 64,
+      "altoTotal": 39.2,
+      "entreEjes": 70.5,
+      "batalla": 84.1
+    },
+    "imagenSlot": null,
+    "imagenReal": null,
+    "imagenes": {
+      "slot": null,
+      "real": null
     }
   }
 ]
