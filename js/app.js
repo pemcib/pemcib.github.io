@@ -102,7 +102,7 @@ async function start() {
   try {
     const sections = ["coches","materiales"];
     const loaded = await Promise.all(sections.map(async section => {
-      const response = await fetch(`data/${section}.json`);
+      const response = await fetch(`data/${section}.json?v=${Date.now()}`, { cache: "no-store" });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const data = await response.json();
       if (!Array.isArray(data)) throw new Error("Formato JSON incorrecto");
